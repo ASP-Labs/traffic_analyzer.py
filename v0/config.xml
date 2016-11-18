@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<data>
+    <no_level>
+        <distance>25</distance>
+    </no_level>
+    <level>
+        <low>0</low>
+        <high>10</high>
+        <distance>4</distance>
+    </level>
+    <level>
+        <low>11</low>
+        <high>20</high>
+        <distance>8</distance>
+    </level>
+    <level>
+        <low>21</low>
+        <high>9999</high>
+        <distance>25</distance>
+    </level>
+</data>
